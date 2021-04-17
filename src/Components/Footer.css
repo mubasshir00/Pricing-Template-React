@@ -1,0 +1,16 @@
+.footer{
+    border-top: 1px solid grey;
+    margin-top: 2.6rem;
+}
+.footer-container{
+    margin-top: 2.6rem;
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    line-height: 1.6;
+}
+h2{
+    font-size: 1rem;
+}
+p{
+    font-size: 0.7rem;
+}
